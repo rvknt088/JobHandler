@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ravi\\source\\repos\\OnTheBeachCodeTest\\JobHandler\\JobHandler\\JobHandler.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ravi\\source\\repos\\OnTheBeachCodeTest\\JobHandler\\JobHandler\\JobHandler.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ravi\\source\\repos\\OnTheBeachCodeTest\\JobHandler\\JobHandler\\JobHandler.csproj",
+        "projectName": "JobHandler",
+        "projectPath": "C:\\Users\\Ravi\\source\\repos\\OnTheBeachCodeTest\\JobHandler\\JobHandler\\JobHandler.csproj",
+        "packagesPath": "C:\\Users\\Ravi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ravi\\source\\repos\\OnTheBeachCodeTest\\JobHandler\\JobHandler\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ravi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
