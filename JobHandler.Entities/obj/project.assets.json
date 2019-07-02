@@ -207,16 +207,6 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
-      },
-      "JobHandler.Business/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.2",
-        "compile": {
-          "bin/placeholder/JobHandler.Business.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/JobHandler.Business.dll": {}
-        }
       }
     }
   },
@@ -690,16 +680,10 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
-    },
-    "JobHandler.Business/1.0.0": {
-      "type": "project",
-      "path": "../JobHandler.Business/JobHandler.Business.csproj",
-      "msbuildProject": "../JobHandler.Business/JobHandler.Business.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
-      "JobHandler.Business >= 1.0.0",
       "Microsoft.NETCore.App >= 2.2.0"
     ]
   },
@@ -710,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ravi\\source\\repos\\OnTheBeachCodeTest\\JobHandler\\JobHandler\\JobHandler.ConsoleApp.csproj",
-      "projectName": "JobHandler.ConsoleApp",
-      "projectPath": "C:\\Users\\Ravi\\source\\repos\\OnTheBeachCodeTest\\JobHandler\\JobHandler\\JobHandler.ConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\Ravi\\source\\repos\\OnTheBeachCodeTest\\JobHandler\\JobHandler.Entities\\JobHandler.Entities.csproj",
+      "projectName": "JobHandler.Entities",
+      "projectPath": "C:\\Users\\Ravi\\source\\repos\\OnTheBeachCodeTest\\JobHandler\\JobHandler.Entities\\JobHandler.Entities.csproj",
       "packagesPath": "C:\\Users\\Ravi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ravi\\source\\repos\\OnTheBeachCodeTest\\JobHandler\\JobHandler\\obj\\",
+      "outputPath": "C:\\Users\\Ravi\\source\\repos\\OnTheBeachCodeTest\\JobHandler\\JobHandler.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -732,11 +716,7 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {
-            "C:\\Users\\Ravi\\source\\repos\\OnTheBeachCodeTest\\JobHandler\\JobHandler.Business\\JobHandler.Business.csproj": {
-              "projectPath": "C:\\Users\\Ravi\\source\\repos\\OnTheBeachCodeTest\\JobHandler\\JobHandler.Business\\JobHandler.Business.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
