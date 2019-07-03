@@ -1,8 +1,8 @@
 ﻿using System.Text.RegularExpressions;
 
-namespace JobHandler.Business.Helper
+namespace JobHandler.Business.Common
 {
-    public class InputValidator
+    public static class ValidateExtesion
     {
         #region [Validate Input]
         /// <summary>
@@ -14,7 +14,7 @@ namespace JobHandler.Business.Helper
         /// </summary>
         /// <param name="input">string input</param>
         /// <returns>Success</returns>
-        public static bool ValidateInput(string input)
+        public static bool ValidateInput(this string input)
         {
             var regex = @"(^[a-z]{1}\s{1}?)(=>)(|(\s{1}?[a-z]{1}?))";
             var match = Regex.Match(input, regex, RegexOptions.IgnoreCase);

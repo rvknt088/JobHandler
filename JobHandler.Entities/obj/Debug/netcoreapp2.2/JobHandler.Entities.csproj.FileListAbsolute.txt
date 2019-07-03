@@ -1,0 +1,8 @@
+C:\Users\Ravi\source\repos\OnTheBeachCodeTest\JobHandler\JobHandler.Entities\bin\Debug\netcoreapp2.2\JobHandler.Entities.deps.json
+C:\Users\Ravi\source\repos\OnTheBeachCodeTest\JobHandler\JobHandler.Entities\bin\Debug\netcoreapp2.2\JobHandler.Entities.dll
+C:\Users\Ravi\source\repos\OnTheBeachCodeTest\JobHandler\JobHandler.Entities\bin\Debug\netcoreapp2.2\JobHandler.Entities.pdb
+C:\Users\Ravi\source\repos\OnTheBeachCodeTest\JobHandler\JobHandler.Entities\obj\Debug\netcoreapp2.2\JobHandler.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Ravi\source\repos\OnTheBeachCodeTest\JobHandler\JobHandler.Entities\obj\Debug\netcoreapp2.2\JobHandler.Entities.AssemblyInfoInputs.cache
+C:\Users\Ravi\source\repos\OnTheBeachCodeTest\JobHandler\JobHandler.Entities\obj\Debug\netcoreapp2.2\JobHandler.Entities.AssemblyInfo.cs
+C:\Users\Ravi\source\repos\OnTheBeachCodeTest\JobHandler\JobHandler.Entities\obj\Debug\netcoreapp2.2\JobHandler.Entities.dll
+C:\Users\Ravi\source\repos\OnTheBeachCodeTest\JobHandler\JobHandler.Entities\obj\Debug\netcoreapp2.2\JobHandler.Entities.pdb

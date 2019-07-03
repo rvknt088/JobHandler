@@ -1,0 +1,12 @@
+C:\Users\Ravi\source\repos\OnTheBeachCodeTest\JobHandler\JobHandler.Business\bin\Debug\netcoreapp2.2\JobHandler.Business.deps.json
+C:\Users\Ravi\source\repos\OnTheBeachCodeTest\JobHandler\JobHandler.Business\bin\Debug\netcoreapp2.2\JobHandler.Business.dll
+C:\Users\Ravi\source\repos\OnTheBeachCodeTest\JobHandler\JobHandler.Business\bin\Debug\netcoreapp2.2\JobHandler.Business.pdb
+C:\Users\Ravi\source\repos\OnTheBeachCodeTest\JobHandler\JobHandler.Business\bin\Debug\netcoreapp2.2\JobHandler.Entities.dll
+C:\Users\Ravi\source\repos\OnTheBeachCodeTest\JobHandler\JobHandler.Business\bin\Debug\netcoreapp2.2\JobHandler.Entities.pdb
+C:\Users\Ravi\source\repos\OnTheBeachCodeTest\JobHandler\JobHandler.Business\obj\Debug\netcoreapp2.2\JobHandler.Business.csprojAssemblyReference.cache
+C:\Users\Ravi\source\repos\OnTheBeachCodeTest\JobHandler\JobHandler.Business\obj\Debug\netcoreapp2.2\JobHandler.Business.csproj.CoreCompileInputs.cache
+C:\Users\Ravi\source\repos\OnTheBeachCodeTest\JobHandler\JobHandler.Business\obj\Debug\netcoreapp2.2\JobHandler.Business.AssemblyInfoInputs.cache
+C:\Users\Ravi\source\repos\OnTheBeachCodeTest\JobHandler\JobHandler.Business\obj\Debug\netcoreapp2.2\JobHandler.Business.AssemblyInfo.cs
+C:\Users\Ravi\source\repos\OnTheBeachCodeTest\JobHandler\JobHandler.Business\obj\Debug\netcoreapp2.2\JobHandler.Business.csproj.CopyComplete
+C:\Users\Ravi\source\repos\OnTheBeachCodeTest\JobHandler\JobHandler.Business\obj\Debug\netcoreapp2.2\JobHandler.Business.dll
+C:\Users\Ravi\source\repos\OnTheBeachCodeTest\JobHandler\JobHandler.Business\obj\Debug\netcoreapp2.2\JobHandler.Business.pdb
